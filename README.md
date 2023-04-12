@@ -1,2 +1,2 @@
 # learning_c
-Learning C with free code camp
+Almost all the c learning that I'm doing or did in the past
